@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v5.8.35',
-    'version' => '5.8.35.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '09454efbf7c558148d4679bbed37a3553503f978',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -123,6 +123,15 @@
       array (
       ),
       'reference' => '848d8125239d7dbf8ab25cb7f054f1a630e68c2e',
+    ),
+    'guzzlehttp/psr7' => 
+    array (
+      'pretty_version' => '1.8.1',
+      'version' => '1.8.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '35ea11d335fd638b5882ff1725228b3d35496ab1',
     ),
     'hamcrest/hamcrest-php' => 
     array (
@@ -329,6 +338,15 @@
         0 => 'v5.8.38',
       ),
     ),
+    'intervention/image' => 
+    array (
+      'pretty_version' => '2.5.1',
+      'version' => '2.5.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'abbf18d5ab8367f96b3205ca3c89fb2fa598c69e',
+    ),
     'jakub-onderka/php-console-color' => 
     array (
       'pretty_version' => 'v0.2',
@@ -365,12 +383,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v5.8.35',
-      'version' => '5.8.35.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '09454efbf7c558148d4679bbed37a3553503f978',
     ),
     'laravel/tinker' => 
     array (
@@ -608,6 +626,22 @@
         0 => '1.0',
       ),
     ),
+    'psr/http-message' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f6561bf28d520154e4b0ec72be95418abe6d9363',
+    ),
+    'psr/http-message-implementation' => 
+    array (
+      'provided' => 
+      array (
+        0 => '1.0',
+      ),
+    ),
     'psr/log' => 
     array (
       'pretty_version' => '1.1.3',
@@ -621,8 +655,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -642,6 +676,15 @@
       array (
       ),
       'reference' => '90da7f37568aee36b116a030c5f99c915267edd4',
+    ),
+    'ralouphie/getallheaders' => 
+    array (
+      'pretty_version' => '3.0.3',
+      'version' => '3.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '120b605dfeb996808c31b6477290a714d356e822',
     ),
     'ramsey/uuid' => 
     array (

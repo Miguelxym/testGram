@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '09454efbf7c558148d4679bbed37a3553503f978',
+    'reference' => '212cf4fa0e94cd89f25d56836726495e68feff61',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -411,7 +411,16 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '09454efbf7c558148d4679bbed37a3553503f978',
+      'reference' => '212cf4fa0e94cd89f25d56836726495e68feff61',
+    ),
+    'laravel/telescope' => 
+    array (
+      'pretty_version' => 'v2.1.7',
+      'version' => '2.1.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5aa2a29faebb0f27b2437292237f4e310a60d5ec',
     ),
     'laravel/tinker' => 
     array (
@@ -457,6 +466,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '2209ddd84e7ef1256b7af205d0717fb62cfc9c33',
+    ),
+    'moontoast/math' => 
+    array (
+      'pretty_version' => '1.2.1',
+      'version' => '1.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5f47d34c87767dbcc08b30377a9827df71de91fa',
     ),
     'myclabs/deep-copy' => 
     array (
@@ -506,6 +524,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '943b5d70cc5ae7483f6aff6ff43d7e34592ca0f5',
+    ),
+    'paragonie/constant_time_encoding' => 
+    array (
+      'pretty_version' => 'v2.4.0',
+      'version' => '2.4.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c',
     ),
     'paragonie/random_compat' => 
     array (
@@ -569,6 +596,24 @@ private static $installed = array (
       array (
       ),
       'reference' => '994ecccd8f3283ecf5ac33254543eb0ac946d525',
+    ),
+    'phpseclib/bcmath_compat' => 
+    array (
+      'pretty_version' => '2.0.0',
+      'version' => '2.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'fd896dfceffc13d8cf45d2ee3470777a70026f3c',
+    ),
+    'phpseclib/phpseclib' => 
+    array (
+      'pretty_version' => '3.0.6',
+      'version' => '3.0.6.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '906a5fafabe5e6ba51ef3dc65b2722a677908837',
     ),
     'phpspec/prophecy' => 
     array (

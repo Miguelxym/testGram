@@ -11,8 +11,14 @@
 |
 */
 
+use App\Mail\NewUserWelcomeMail;
 
 Auth::routes();
+
+//this should be temporary, just use it to se the mail template in browser
+Route::get('/email', function() {
+    return new NewUserWelcomeMail();
+});
 
 Route::post('follow/{user}', 'FollowsController@store');
 
